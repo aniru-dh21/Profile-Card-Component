@@ -2,6 +2,8 @@
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
+Live Solution: [Profile-Card-Component](https://aniru-dh21.github.io/Profile-Card-Component/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
